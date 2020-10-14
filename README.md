@@ -2,8 +2,9 @@
 
 My first repository on github
 
-I was create my first repository on GitHub.
+
 Master made repository
 
 паснеприщшлзжэ
 
+Добавил ветвь и удалил 5 строку (I was create my first repository on GitHub.)
