@@ -22,3 +22,4 @@ My first repository on github
 Изменил файл на рабочем компе чтобы закоммитить через gitkracken
 v ngfchngfhn f
 sdbtdsbtdrbdrt
+Дописал файл из Visual Studio Code
