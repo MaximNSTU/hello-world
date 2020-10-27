@@ -25,5 +25,6 @@ sdbtdsbtdrbdrt
 Дописал файл из Visual Studio Code
 Дописал файл из github в браузере
 ifghviufsvhiuh
+Добавил на своем компе 28 строку
 
 изменяю на github 
