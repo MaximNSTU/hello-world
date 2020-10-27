@@ -31,4 +31,6 @@ sdbtdsbtdrbdrt
 ifghviufsvhiuh
 Добавил на своем компе 28 строку
 
-изменяю на github 
+изменяю на github
+
+Добавил изменения на github хочу проверить git fetch команду
